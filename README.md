@@ -1,4 +1,3 @@
-HI~~~ i am bobo now
 # Basic
 - git add [filename]
 - git commit -m '[your commit message]'
