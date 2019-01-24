@@ -16,7 +16,6 @@ HI~~~ i am bobo now
 	================
 	<pull from git>
 	>>>>>>>>>>> [commit number]
-	</code>
 	```
 # Branch
 - Creat new branch: git branch [branchname]
