@@ -26,6 +26,9 @@
 - Rebase two branch: git rebase --continue
 - Cancel rebase two branch: git rebase --abort
 
+# Commit
+- test
+
 # Another topic
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 	

@@ -10,13 +10,13 @@
 
 # --- COMMIT END ---
 # Type can be 
-#    feat (new feature)
-#    fix (bug fix)
-#    docs (changes to documentation)
-#    style (formatting, missing semi colons, etc; no code change)
-#    refactor (refactoring production code)
-#    test (adding missing tests, refactoring tests; no production code change)
-#    chore (updating grunt tasks etc; no production code change)
+#    Feat (new feature)
+#    Fix (bug fix)
+#    Docs (changes to documentation)
+#    Style (formatting, missing semi colons, etc; no code change)
+#    Refactor (refactoring production code)
+#    Test (adding missing tests, refactoring tests; no production code change)
+#    Chore (updating grunt tasks etc; no production code change)
 # --------------------
 # Remember to
 #    Separate subject from body with a blank line
